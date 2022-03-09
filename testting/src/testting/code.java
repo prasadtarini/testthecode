@@ -7,6 +7,8 @@ public class code {
 		System.out.println("hello");
 		System.out.println("virat");
 		System.out.println("kohli");
+		prime c= new prime();
+		c.sayhello();
 
 	}
 
